@@ -9,22 +9,11 @@ import java.sql.Statement;
 import java.util.Properties;
 
 /**
- * 
  * @Description 操作数据库的工具类
- * @author shkstart Email:shkstart@126.com
- * @version
- * @date 上午9:10:02
- *
  */
 public class JDBCUtils {
-	
 	/**
-	 * 
 	 * @Description 获取数据库的连接
-	 * @author shkstart
-	 * @date 上午9:11:23
-	 * @return
-	 * @throws Exception
 	 */
 	public static Connection getConnection() throws Exception {
 		// 1.读取配置文件中的4个基本信息
@@ -46,12 +35,7 @@ public class JDBCUtils {
 		return conn;
 	}
 	/**
-	 * 
 	 * @Description 关闭连接和Statement的操作
-	 * @author shkstart
-	 * @date 上午9:12:40
-	 * @param conn
-	 * @param ps
 	 */
 	public static void closeResource(Connection conn,Statement ps){
 		try {
@@ -68,13 +52,7 @@ public class JDBCUtils {
 		}
 	}
 	/**
-	 * 
 	 * @Description 关闭资源操作
-	 * @author shkstart
-	 * @date 上午10:21:15
-	 * @param conn
-	 * @param ps
-	 * @param rs
 	 */
 	public static void closeResource(Connection conn,Statement ps,ResultSet rs){
 		try {

@@ -23,5 +23,10 @@
     <orderEntry type="library" name="org.junit.jupiter:junit-jupiter:5.8.2" level="project" />
     <orderEntry type="library" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="library" name="junit-4.13.2" level="project" />
+    <orderEntry type="library" name="c3p0-0.9.1.2" level="project" />
+    <orderEntry type="library" name="commons-dbcp-1.4" level="project" />
+    <orderEntry type="library" name="commons-dbutils-1.3" level="project" />
+    <orderEntry type="library" name="commons-pool-1.5.5" level="project" />
+    <orderEntry type="library" name="druid-1.1.10" level="project" />
   </component>
 </module>
