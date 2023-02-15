@@ -1,0 +1,16 @@
+server:
+  port: 8083
+
+address:
+  - beijing
+  - henan
+#address: [beijing, henan]
+
+
+msg1: 'hello \n world'  # 单引号忽略转义字符
+msg2: "hello \n world"  # 双引号识别转义字符
+
+name: lisi
+
+person:
+  name: ${name}  # 引用上边定义的name值
