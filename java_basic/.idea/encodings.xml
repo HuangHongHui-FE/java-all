@@ -46,7 +46,6 @@
     <file url="file://$PROJECT_DIR$/src/basic/extendsAbout/demo24extends07/Member.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/extendsAbout/demo24extends07/User.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/Demo25Interface02.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/Demo25Interface02.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/Demo25Interface03.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/Demo25Interface04.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/Demo25Interface05.java" charset="GBK" />
@@ -59,8 +58,6 @@
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/MyInterfacePrivateB.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/MyInterfaceStatic.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/MyInterfaceStaticImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/demo25/Demo25Interface01.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/demo25/Demo25Interface01.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/demo25/Demo25Interface01.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/demo25/MyInterfaceAbstract.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/interfaceAbout/demo25/MyInterfaceAbstractImpl.java" charset="GBK" />
@@ -101,5 +98,6 @@
     <file url="file://$PROJECT_DIR$/src/basic/module/Demo16Module4.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/module/Person.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/basic/module/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/basic/thread/Demo02Thread.java" charset="GBK" />
   </component>
 </project>
